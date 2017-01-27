@@ -1,0 +1,8 @@
+*.swp
+aspects/
+classes/
+weaved/
+dist/
+build/
+nbproject/genfiles.properties
+nbproject/private
